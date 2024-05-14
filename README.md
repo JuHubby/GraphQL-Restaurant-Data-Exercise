@@ -1,4 +1,5 @@
 # GraphQL-Restaurant-Data-Exercise  ![GraphQl Logo](/GraphQL_Logo.png)
+<img src="GraphQL_Logo.png" alt="GraphQl Logo" width="200"/>
 
 ## Description of the project:
  This repository is the code of json starting from on a constructed schema, using GraphQL schema language and then The root provides a resolver function for each API endpoint for your use. 
