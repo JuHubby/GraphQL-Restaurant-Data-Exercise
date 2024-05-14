@@ -1,4 +1,6 @@
-<img src="GraphQL_Logo.png" alt="GraphQl Logo" width="100"/> # GraphQL-Restaurant-Data-Exercise 
+<img src="GraphQL_Logo.png" alt="GraphQl Logo" width="100"/> 
+
+# GraphQL-Restaurant-Data-Exercise 
 
 
 ## Description of the project:
