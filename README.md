@@ -4,11 +4,10 @@
 
 
 ## Description of the project:
- This repository is the code of json starting from on a constructed schema, using GraphQL schema language and then The root provides a resolver function for each API endpoint for your use. 
-feel free to fork this repo for you use. 
+ This repository contains JSON code based on a constructed schema, utilizing the GraphQL schema language. The root of the repository provides resolver functions for each API endpoint for your convenience. Feel free to fork this repository for your own use
 
 ## How to Run:
-you can run this code in the [localhost:5500/graphql](localhost:5500/graphql) link, after npm install and node index.js. meks sure youare usng node version over 16 version
+You can execute this code at the link <localhost:5500/graphql> after running npm install and node index.js. Make sure you are using Node version 16 or higher.
 
 ## License information:
 MIT license.
